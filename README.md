@@ -6,7 +6,7 @@
 </p>
 
 <h3 align="center">
-    I'm an aspiring Full-Stack Developer passionate about building web applications and constantly learning new technologies. 
+    I'm an aspiring Full-stack Developer passionate about building web applications and constantly learning new technologies. 
     Currently diving deep into both front-end and back-end development, sharpening my skills with languages like 
     <strong>JavaScript</strong>, <strong>Python</strong>, and more.
 </h3>
