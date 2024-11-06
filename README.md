@@ -1,5 +1,5 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&lines=Welcome+to+My+Coding+Playground+👋!&color=8A2BE2&effect=slide-in" />
+<h1 align="center" style="font-family: Righteous, sans-serif;">
+  Welcome to My Coding Playground 👋!
 </h1>
 <p align="center">
     <img alt="coding" src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif" width="500">
