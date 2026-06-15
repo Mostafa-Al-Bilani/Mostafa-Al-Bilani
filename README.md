@@ -78,7 +78,7 @@ Key functionality includes:
 
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=react,js,php,laravel,html,css,tailwind,nodejs,supabase,postgres,mysql,python,docker,git,github,postman,vscode&perline=9"
+    src="https://skillicons.dev/icons?i=react,angular,js,php,laravel,html,css,tailwind,bootstrap,nodejs,supabase,postgres,mysql,python,vite,npm,docker,git,github,githubactions,postman,vscode&perline=11"
     alt="Technical stack"
   />
 </div>
@@ -86,10 +86,10 @@ Key functionality includes:
 <br />
 
 **Languages:** JavaScript, PHP, Python, SQL  
-**Frontend:** React, HTML, CSS, Tailwind CSS, Bootstrap  
+**Frontend:** React, Angular, HTML, CSS, Tailwind CSS, Bootstrap  
 **Backend:** Laravel, Node.js, Supabase, REST APIs  
 **Databases:** Microsoft SQL Server, PostgreSQL, MySQL  
-**Development tools:** Git, GitHub, Docker, Postman, VS Code  
+**Development and delivery:** Vite, npm, Git, GitHub, GitHub Actions, Docker, Postman, VS Code  
 **Professional tools:** IIS, Crystal Reports, DevExpress, Visual Dolphin ERP
 
 ## Current Development Focus
