@@ -1,100 +1,70 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:1d4ed8,100:06b6d4&text=Mostafa%20Al%20Bilani&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Aspiring%20Full-Stack%20Developer%20%7C%20JavaScript%20%7C%20Python&descAlignY=58&descSize=18" alt="Mostafa Al Bilani banner" width="100%" />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,35:7c3aed,70:ec4899,100:22d3ee&text=Mostafa%20Al%20Bilani&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Full-Stack%20Developer%20in%20the%20Making&descAlignY=58&descSize=18" alt="Mostafa Al Bilani banner" width="100%" />
-
-  <a href="mailto:mostafaalbilani@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mostafaalbilani%40gmail.com-ec4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/mostafa-al-bilani-65839a334">
-    <img src="https://img.shields.io/badge/LinkedIn-Mostafa%20Al%20Bilani-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Beirut%2C%20Lebanon-22d3ee?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Beirut, Lebanon" />
-
-  <br />
-  <br />
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=I+build+clean+front-end+experiences.;I+turn+logic+into+working+back-end+systems.;I+learn+fast%2C+ship+often%2C+and+keep+improving." alt="Typing animation" />
-
+  <p>
+    <a href="mailto:mostafaalbilani@gmail.com">
+      <img src="https://img.shields.io/badge/Email-mostafaalbilani%40gmail.com-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/mostafa-al-bilani-65839a334">
+      <img src="https://img.shields.io/badge/LinkedIn-Mostafa%20Al%20Bilani-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <img src="https://img.shields.io/badge/Location-Beirut%2C%20Lebanon-0891b2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  </p>
 </div>
 
----
+## About Me
 
-<table>
-  <tr>
-    <td width="58%">
+I am an aspiring full-stack developer focused on building practical web applications and strengthening my software engineering fundamentals through real projects.
 
-      <h2>About Me</h2>
-      <p>I am an aspiring full-stack developer building my way through real projects, practical experiments, and constant skill upgrades.</p>
-      <p>My current focus is the full web stack: crafting responsive interfaces, writing clean JavaScript, solving problems with Python, and connecting the pieces that turn an idea into a working application.</p>
-      <p>I use this GitHub as my public workshop: a place for learning, shipping, refining, and documenting the road from beginner projects to production-ready software.</p>
+My current work centers on JavaScript and Python, with hands-on practice in front-end development, back-end logic, APIs, and responsive user interfaces.
 
-    </td>
-    <td width="42%" align="center">
-      <img src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif" alt="Coding animation" width="100%" />
-    </td>
-  </tr>
-</table>
+This GitHub is my working portfolio. It shows what I am building, what I am learning, and how I am improving through code.
 
----
+## At a Glance
 
-## Developer Loadout
+- Focus: full-stack web development
+- Core languages: JavaScript, Python
+- Front-end: React, HTML, CSS, Tailwind CSS, Bootstrap
+- Back-end: Node.js, Express
+- Data: MongoDB, MySQL
+- Tools: Git, GitHub, VS Code, npm, Postman
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>Front-End</h3>
-      <p>Interfaces, layouts, responsive pages, components, and user-friendly web experiences.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>Back-End</h3>
-      <p>Logic, APIs, data flow, authentication basics, server-side structure, and app behavior.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>Problem Solving</h3>
-      <p>Python practice, algorithms, clean code, debugging, and turning requirements into solutions.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## Tech Arsenal
+## Tech Stack
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,git,github,vscode,npm,postman" alt="Tech stack" />
+</div>
 
-<h3>Languages</h3>
-<img src="https://skillicons.dev/icons?i=js,python,html,css" alt="Languages" />
+## Selected Work
 
-<h3>Front-End</h3>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" alt="Front-end tools" />
+### World Cup Predictor 2026
 
-<h3>Back-End and Data</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Back-end and data tools" />
+A JavaScript-based web application focused on prediction logic, interactive UI behavior, and turning a domain idea into a working product.
 
-<h3>Tools</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman" alt="Developer tools" />
+### Python Practice Projects
 
+A growing set of Python exercises and small projects used to sharpen problem solving, debugging, and coding discipline.
+
+## Current Focus
+
+- Building complete web applications from interface to logic
+- Writing cleaner JavaScript and Python
+- Improving API design, database usage, and project structure
+- Growing from small exercises into stronger portfolio projects
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mostafa-Al-Bilani&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&title_color=60a5fa&text_color=e2e8f0&icon_color=38bdf8" alt="GitHub stats" height="170" />
+  <img src="https://streak-stats.demolab.com?user=Mostafa-Al-Bilani&theme=transparent&hide_border=true&ring=60a5fa&fire=38bdf8&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=94a3b8" alt="GitHub streak" height="170" />
 </div>
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=facc15" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=60a5fa" alt="Python" />
-<img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=f97316" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=38bdf8" alt="CSS3" />
-<img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=22d3ee" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=22c55e" alt="Node.js" />
-<img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=f97316" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mostafa-Al-Bilani&theme=github_dark" alt="Profile details" width="90%" />
 </div>
 
----
+## Contact
 
-## Current Questline
-
-```txt
-Leveling up:     Front-end + back-end fundamentals
-Main weapons:    JavaScript, Python, HTML, CSS
-Side quests:     APIs, databases, GitHub workflows, clean UI
-Boss fight:      Building complete apps from idea to deployment
+- Email: `mostafaalbilani@gmail.com`
+- LinkedIn: [mostafa-al-bilani-65839a334](https://www.linkedin.com/in/mostafa-al-bilani-65839a334)
+- Location: Beirut, Lebanon
