@@ -66,5 +66,5 @@ A growing set of Python exercises and small projects used to sharpen problem sol
 ## Contact
 
 - Email: `mostafaalbilani@gmail.com`
-- LinkedIn: [mostafa-al-bilani-65839a334](https://www.linkedin.com/in/mostafa-al-bilani-65839a334)
+- LinkedIn: [mostafa-al-bilani]https://www.linkedin.com/in/mostafa-al-bilani/
 - Location: Beirut, Lebanon
